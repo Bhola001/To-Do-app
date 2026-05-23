@@ -1,0 +1,3 @@
+Task = python
+Task = JAVA
+Task = C++ [Done]
